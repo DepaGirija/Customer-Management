@@ -1,0 +1,17 @@
+.title{
+	background-color:blue;
+	
+	 border: solid red;
+}
+.left{
+background-color:yellow;
+ border: solid red;	
+}
+.right{
+background-color:red;
+ border: solid red;	
+}
+.formbox{
+background-color:green;
+ border: solid red;	
+}
